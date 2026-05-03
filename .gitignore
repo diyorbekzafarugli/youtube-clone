@@ -29,6 +29,7 @@ logs/
 appsettings.Development.json
 appsettings.Local.json
 appsettings.Production.local.json
+appsettings.json
 
 ## SSL certificates (xavfsizlik)
 *.pem
