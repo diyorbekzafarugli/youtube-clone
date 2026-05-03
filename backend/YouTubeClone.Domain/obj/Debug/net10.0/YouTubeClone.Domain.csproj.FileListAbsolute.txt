@@ -1,0 +1,11 @@
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\bin\Debug\net10.0\YouTubeClone.Domain.deps.json
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\bin\Debug\net10.0\YouTubeClone.Domain.dll
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\bin\Debug\net10.0\YouTubeClone.Domain.pdb
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\YouTubeClone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\YouTubeClone.Domain.AssemblyInfoInputs.cache
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\YouTubeClone.Domain.AssemblyInfo.cs
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\YouTubeClone.Domain.csproj.CoreCompileInputs.cache
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\YouTubeClone.Domain.dll
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\refint\YouTubeClone.Domain.dll
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\YouTubeClone.Domain.pdb
+D:\@\Diyorbek\Coding\DotNet\youtube-clone\backend\YouTubeClone.Domain\obj\Debug\net10.0\ref\YouTubeClone.Domain.dll

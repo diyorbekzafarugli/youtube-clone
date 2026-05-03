@@ -1,0 +1,58 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+
+## Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Logs
+logs/
+*.log
+
+## Environment
+.env
+.env.local
+.env.production
+*.env.local
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.local.json
+
+## SSL certificates (xavfsizlik)
+*.pem
+*.key
+*.crt
+*.pfx
+
+## Docker
+docker-compose.override.yml
+
+## Backup files
+backups/
+*.sql.gz
+*.dump
+
+## Node (Angular)
+client/node_modules/
+client/dist/
+client/.angular/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## IDE
+.idea/
+*.swp
